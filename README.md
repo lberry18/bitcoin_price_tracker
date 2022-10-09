@@ -1,2 +1,2 @@
 # bitcoin_price_tracker
-Simple API app to show Realtime price of Bitcoin and other Crypto currencies.
+Basic UI app to show Realtime price of Bitcoin and other Crypto currencies pulled through an API.
